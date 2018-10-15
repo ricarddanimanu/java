@@ -1,1 +1,3 @@
-Aqui pondremos los ejercicios de java
+Manuel Carceller Margeli
+Dani Alvarez Alvarez
+Ricard Nuñez Marquez
